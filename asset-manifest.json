@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/test-gp/static/css/main.3e0e08e7.css",
+    "main.js": "/test-gp/static/js/main.dfcb70cb.js",
+    "index.html": "/test-gp/index.html",
+    "main.3e0e08e7.css.map": "/test-gp/static/css/main.3e0e08e7.css.map",
+    "main.dfcb70cb.js.map": "/test-gp/static/js/main.dfcb70cb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e0e08e7.css",
+    "static/js/main.dfcb70cb.js"
+  ]
+}
